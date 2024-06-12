@@ -1,6 +1,9 @@
 # modeapp
 
-A new Flutter project.
+Animatedthemeapp:
+
+<img width="1440" alt="Screenshot 2024-06-13 at 2 06 16 AM" src="https://github.com/Arham9125/animatedthemeapp/assets/90573710/6ac5e65d-c7b9-4d84-886a-d6ad8e5b287f">
+
 
 ## Getting Started
 
